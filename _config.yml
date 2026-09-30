@@ -24,13 +24,13 @@ repository               : "Kunal-Vijay83/Kunal-Vijay83.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Kunal Vijay"
+  pronouns         : # example: "she/her" 
+  bio              : "Mechanical Engineering | Robotics & Intelligent Physical Systems"
+  location         : "New Delhi, India"
+  employer         : "Netaji Subhas University of Technology"
+  uri              : "https://Kunal-Vijay83.github.io"
+  email            : "kunalvijay83@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Kunal-Vijay83"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
